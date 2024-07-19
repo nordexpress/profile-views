@@ -1,8 +1,9 @@
 {
   "devMode": "false",
-  "advancedMode": "false",
+  "advancedMode": "true",
   "language": "en-US",
   "repository": [
-    "repository-name"
+    "android-vpn-client-open-ics-openvpn"
+    "android-animations"
   ]
 }
